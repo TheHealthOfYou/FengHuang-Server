@@ -19,4 +19,4 @@ In the future, when there is a server, it will be converted into a public server
 - Add basic functionality, such as changing the port.
 - Written in detail to use the tutorial.
 - Supports the creation of a local server.
-- HTML supports changing the default home page for the local server.
+- Supports changing the default home page for the local server to "index.html".
