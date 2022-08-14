@@ -15,7 +15,8 @@ Change encode:<br/>
 Now can't,ready to add function in the future.
 # Ideals
 In the future, when there is a server, it will be converted into a public server!
-# 0.1.0-beta's update the report form
+# 0.1.0-beta's update the report
 - Add basic functionality, such as changing the port.
 - Written in detail to use the tutorial.
 - Supports the creation of a local server.
+- Supports uploading HTML file to the server.
