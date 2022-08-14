@@ -1,0 +1,2 @@
+# FunnyServer
+A server project.
