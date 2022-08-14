@@ -1,2 +1,2 @@
-# FengHuangServer
+# fhserver
 A server project.
