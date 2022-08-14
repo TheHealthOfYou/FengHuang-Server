@@ -1,2 +1,2 @@
-# FunnyServer
+# FengHuangServer
 A server project.
