@@ -5,7 +5,7 @@ Currently only Python can use it.
 # Current features
 Change IP:<br/>
 Can't for a century.<br/>
-Change upload HTML:<br/>
+Change upload file:<br/>
 Ago can't,now can.<br/>
 Change port:<br/>
 Can.<br/>
