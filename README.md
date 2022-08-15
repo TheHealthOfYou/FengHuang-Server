@@ -24,5 +24,5 @@ In the future, when there is a server, it will be converted into a public server
 - Add basic functionality, such as changing the port.
 - Written in detail to use the tutorial.
 - Supports the creation of a local server.
-- Supports change the decode,encode,port and the home page's file.
-- The default home page for the local server to your setting file. It will automatically at run time Upload the setting file to the server.
+- Supports change the decode,encode and the home page's file.
+- The default home page for the local server is your setting file. It will automatically at run time Upload the setting file to the server.
