@@ -12,6 +12,8 @@ Can.<br/>
 Change decode:<br/>
 Ago can't,now can.<br/>
 Change encode:<br/>
+Ago can't,now can.<br/>
+Auto visit your website in system defult browser<br/>
 Ago can't,now can.
 # Ideals
 In the future, when there is a server, it will be converted into a public server!
