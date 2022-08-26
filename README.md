@@ -15,6 +15,12 @@ Change encode:<br/>
 Ago can't,now can.
 # Ideals
 In the future, when there is a server, it will be converted into a public server!
+# v1.0 formal's update the report
+- Written in detail to use the tutorial.
+- Supports the creation of a local server.
+- Supports change the decode,encode,port and the home page's file.
+- The default home page for the local server is your setting file. The code will automatically at run time Upload the setting file to the server.
+- On program run,it can auto open the system defult browser. And it can auto visit your website!
 # v0.2.0-beta's update the report
 - Written in detail to use the tutorial.
 - Supports the creation of a local server.
